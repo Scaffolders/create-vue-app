@@ -9,3 +9,6 @@ This template uses:
 * Sass as the CSS-preprocessor
 * Vite as the bundle builder
 * Vue 3
+
+If you want to deploy on the cloud your website based on this template, is recommended using the Azure Static Web Apps services, because this template is already
+configured to be deployed in this service.
